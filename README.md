@@ -1,3 +1,12 @@
+# Run with docker
+
+```shell
+docker build -t btc .
+docker run -d --name btc btc
+```
+### you can change bitcoin configuration in network/bitcoin.conf file
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
