@@ -2,7 +2,7 @@
 
 ```shell
 docker build -t btc .
-docker run -p 8332:8332 -p 8333:8333  -v /Users/noro/Documents/bitcoin/network:/app/network --name btc btc 
+docker run -p 8332:8332 -p 8333:8333 --name btc btc 
 ```
 ### you can change bitcoin configuration in network/bitcoin.conf file
 

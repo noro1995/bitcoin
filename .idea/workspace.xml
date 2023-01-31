@@ -12,12 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c35457d-0231-4b45-92fb-320cb61f1c83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/entrypoint.sh" afterDir="false" />
-    </list>
+    <list default="true" id="6c35457d-0231-4b45-92fb-320cb61f1c83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +96,7 @@
       <workItem from="1674639906876" duration="241000" />
       <workItem from="1674640154173" duration="38886000" />
       <workItem from="1675054628857" duration="3659000" />
-      <workItem from="1675066155719" duration="15801000" />
+      <workItem from="1675066155719" duration="16154000" />
     </task>
     <servers />
   </component>
