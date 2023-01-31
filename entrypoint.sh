@@ -1,2 +1,2 @@
 cd /app
-src/bitcoind -datadir=btc -printtoconsole
+src/bitcoind -datadir=network -printtoconsole
